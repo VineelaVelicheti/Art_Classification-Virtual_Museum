@@ -1,7 +1,5 @@
 # Art_Classification-Virtual_Museum
 
-# Art-Classification--Virtual-Museum
-
 # Instructions to Install:
 
 ## For Mac users:
