@@ -5,6 +5,7 @@
 ## For Mac users:
 
 pip install tensorflow
+
 pip install keras
 
 conda update --all
