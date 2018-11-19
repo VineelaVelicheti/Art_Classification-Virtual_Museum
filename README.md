@@ -10,7 +10,7 @@ pip install keras
 
 conda update --all
 
-## For Windows 
+## For Windows users:
 
 Open Anaconda Prompt:
 
