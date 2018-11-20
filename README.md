@@ -90,7 +90,9 @@ Five Files :
 	- Feature Extraction Folder
 	- Classification_resnet.ipynb 
 	- Classification_vgg.ipynb
-- **Prerequisites** : Classification_resnet.ipynb or Classification_vgg.ipynb, make sure you already have features extracted files like X_train_vgg.csv,Y_train_vgg.csv,X_test_vgg.csv,Y_test_vgg.csv, X_train_resnet.csv, Y_train_resnet.csv, X_test_resnet.csv and Y_test_resnet.csv  or  get files using previously mentioned Feature Extraction scripts.   
+	
+- **Prerequisites** : Classification_resnet.ipynb or Classification_vgg.ipynb, make sure you already have features extracted files like X_train_vgg.csv,Y_train_vgg.csv,X_test_vgg.csv,Y_test_vgg.csv, X_train_resnet.csv, Y_train_resnet.csv, X_test_resnet.csv and Y_test_resnet.csv  or  get files using previously mentioned Feature Extraction scripts. 
+
 - To run any of the two scripts, change below mentioned varibles:
 	- xTrain- path to X_train.csv on your local machine 
 	- yTrain - path to y_train.csv on your local machine
